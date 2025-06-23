@@ -29,8 +29,8 @@ This repository contains the cleaned version of the Netflix Movies and TV Shows 
 
 ## Files Included
 
-- `netflix_titles.csv` - The initial dataset.
-- `cleaned_data.csv` – The cleaned and processed dataset.
+- `netflix_titles.xlsx` - The initial dataset.
+- `cleaned_data.xlsx` – The cleaned and processed dataset.
 - `Data_Cleaning(task_1).ipynb` – Jupyter Notebook with all cleaning steps and explanations.
 - `README.md` – This summary and documentation.
 
